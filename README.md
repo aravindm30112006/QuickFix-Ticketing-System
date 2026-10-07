@@ -3,6 +3,7 @@
 > **A Low-Code Enterprise IT & Facility Support Management Application**  
 > *Built with Mendix Low-Code Application Platform*  
 > **Author:** Aravind (Easwari Engineering College)
+> > **Note:** This project was developed as part of the **Siemens Industry Readiness Program** and is shared publicly as a personal portfolio project with permission. It is not an official Siemens product or endorsement.
 
 [![Mendix Low-Code](https://img.shields.io/badge/Platform-Mendix%2010-004B87.svg)](https://www.mendix.com/)
 [![Application Architecture](https://img.shields.io/badge/Architecture-Domain%20Model%20%2B%20Microflows-brightgreen.svg)]()
@@ -143,5 +144,6 @@ flowchart LR
 
 ## 📄 License & Attribution
 
-This project is licensed under the [MIT License](LICENSE).  
-Developed as part of the **Siemens Industry Readiness Program (SIRP)**.
+This project is licensed under the [MIT License](LICENSE).
+
+> **Note:** This project was developed as part of the **Siemens Industry Readiness Program (SIRP)** and is shared publicly as a personal portfolio project with permission. It is not an official Siemens product or endorsement.
